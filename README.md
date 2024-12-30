@@ -1,0 +1,1 @@
+This repository contains a simple C program that demonstrates the issues of uninitialized pointers and memory leaks. The program includes a solution to address these issues and improve code safety and efficiency.  The bug.c file contains the original code with the errors, while bugSolution.c provides the corrected version.
